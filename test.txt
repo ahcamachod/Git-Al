@@ -1,2 +1,5 @@
+view1.sql
+view2.sql
 view3.sql
 view4.sql
+view6.sql
